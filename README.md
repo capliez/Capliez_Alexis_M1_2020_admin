@@ -17,4 +17,5 @@ Step to install:
 
 ### How to use the Script
 
+In the terminal execute :
 ./FILE_NAME.sh [arguments]
