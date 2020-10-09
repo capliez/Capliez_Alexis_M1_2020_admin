@@ -53,6 +53,8 @@ checkGoup(){
 changePermFile(){
     sudo chown $USER:$GROUP $NOM
     sudo chmod g-rwx $NOM
+    echo "Changement bien effectué !"
+
 }
 
 enterFile
